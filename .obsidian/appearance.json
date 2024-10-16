@@ -1,0 +1,29 @@
+{
+  "cssTheme": "Clair de Lune",
+  "textFontFamily": "Comic Sans MS,Cascadia Mono",
+  "interfaceFontFamily": "Comic Sans MS,Cascadia Mono",
+  "monospaceFontFamily": "Calibri",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "custom",
+    "custom-background",
+    "custom-rainbow-colors",
+    "Daily Note Themes",
+    "dashboard",
+    "yt",
+    "stormy's General Tweaks",
+    "notion-cards",
+    "Notebook Backgrounds",
+    "minimal-cards",
+    "Minecraft",
+    "media-grid-snippet",
+    "MCL Multi Column",
+    "hide-properties",
+    "floating-search-bar",
+    "extended-colorschemes",
+    "dashboard-ReadLineLength",
+    "its-frontmatter"
+  ],
+  "nativeMenus": true
+}
